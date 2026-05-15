@@ -1,6 +1,6 @@
 # Namma Platform
 
-Namma Platform is a premium offline-first Android railway station guide for rural and small railway stations in Karnataka. It focuses on the SRD goals: platform guidance, next 3 trains, visual coach order, General/Ladies standing guidance, Kannada-first labels, and TextToSpeech announcements.
+Namma Platform is a premium offline-first Android railway station guide for rural and small railway stations in Karnataka. It focuses on the SRD goals: platform guidance, next 3 trains, visual coach layouts, and TextToSpeech assistance for elderly and beginner users at small stations.
 
 ## Features
 
@@ -10,7 +10,7 @@ Namma Platform is a premium offline-first Android railway station guide for rura
 - Kannada + English UI labels for elderly and beginner users.
 - Next train platform card and next train list.
 - Horizontal coach visualizer with Engine, General, Ladies, Sleeper, and AC coach colors.
-- Blinking General/Ladies coach highlights with “Stand Here” indicators.
+- Blinking General/Ladies coach highlights with "Stand Here" indicators.
 - Kannada TextToSpeech Help Me action with English fallback.
 - Onboarding, animated splash, bottom navigation, haptic station selection, and Material 3 UI.
 - Dynamic color, dark-mode-ready theme, large readable typography, and high contrast blue/yellow palette.
@@ -56,14 +56,10 @@ Important packages:
 
 ## Screenshots
 
-Add screenshots here after running the app:
-
-- Splash and onboarding
-- Login and signup
-- Home dashboard
-- Station selector
-- Train list and coach visualizer
-- Settings
+| | | |
+|:---:|:---:|:---:|
+| ![Screenshot 1](WhatsApp%20Image%202026-05-15%20at%205.06.21%20PM%20(1).jpeg) | ![Screenshot 2](WhatsApp%20Image%202026-05-15%20at%205.06.21%20PM.jpeg) | ![Screenshot 3](WhatsApp%20Image%202026-05-15%20at%205.06.22%20PM%20(1).jpeg) |
+| ![Screenshot 4](WhatsApp%20Image%202026-05-15%20at%205.06.22%20PM%20(2).jpeg) | ![Screenshot 5](WhatsApp%20Image%202026-05-15%20at%205.06.22%20PM.jpeg) | ![Screenshot 6](WhatsApp%20Image%202026-05-15%20at%205.06.23%20PM.jpeg) |
 
 ## Notes
 
