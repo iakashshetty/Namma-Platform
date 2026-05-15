@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.mindmatrix.nammaplatform.app-debug-71:/xml_backup_rules.xml.flat",
+        "source": "com.mindmatrix.nammaplatform.app-main-73:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.mindmatrix.nammaplatform.app-debug-71:/xml_data_extraction_rules.xml.flat",
+        "source": "com.mindmatrix.nammaplatform.app-main-73:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.mindmatrix.nammaplatform.app-debug-71:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.mindmatrix.nammaplatform.app-main-73:/drawable/ic_launcher_foreground.xml"
+    }
+]

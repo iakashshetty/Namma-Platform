@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mindmatrix.nammaplatform.app-mergeDebugResources-69:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\harsh\\.gradle\\caches\\9.0.0\\transforms\\6f387553c0bb491e18909859d0ef704a\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}

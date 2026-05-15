@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_yellow">#F9A825</color>
+    <color name="primary_blue">#1565C0</color>
+    <string name="app_name">Namma Platform</string>
+    <style name="Theme.NammaPlatform" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+    </style>
+</resources>

@@ -1,0 +1,42 @@
+[
+  {"id":"layout_short","trainNumber":"LOCAL","coaches":[
+    {"code":"ENG","type":"ENGINE","label":"Engine"},
+    {"code":"GEN","type":"GENERAL","label":"General Coach"},
+    {"code":"LDS","type":"LADIES","label":"Ladies Coach"},
+    {"code":"S1","type":"SLEEPER","label":"Sleeper S1"},
+    {"code":"S2","type":"SLEEPER","label":"Sleeper S2"},
+    {"code":"A1","type":"AC","label":"AC Coach A1"}
+  ]},
+  {"id":"layout_mixed","trainNumber":"MIXED","coaches":[
+    {"code":"ENG","type":"ENGINE","label":"Engine"},
+    {"code":"GEN","type":"GENERAL","label":"General Coach"},
+    {"code":"LDS","type":"LADIES","label":"Ladies Coach"},
+    {"code":"S1","type":"SLEEPER","label":"Sleeper S1"},
+    {"code":"S2","type":"SLEEPER","label":"Sleeper S2"},
+    {"code":"S3","type":"SLEEPER","label":"Sleeper S3"},
+    {"code":"B1","type":"AC","label":"AC 3 Tier B1"},
+    {"code":"A1","type":"AC","label":"AC 2 Tier A1"}
+  ]},
+  {"id":"layout_long","trainNumber":"EXPRESS","coaches":[
+    {"code":"ENG","type":"ENGINE","label":"Engine"},
+    {"code":"GEN","type":"GENERAL","label":"General Coach"},
+    {"code":"LDS","type":"LADIES","label":"Ladies Coach"},
+    {"code":"S1","type":"SLEEPER","label":"Sleeper S1"},
+    {"code":"S2","type":"SLEEPER","label":"Sleeper S2"},
+    {"code":"S3","type":"SLEEPER","label":"Sleeper S3"},
+    {"code":"S4","type":"SLEEPER","label":"Sleeper S4"},
+    {"code":"B1","type":"AC","label":"AC 3 Tier B1"},
+    {"code":"B2","type":"AC","label":"AC 3 Tier B2"},
+    {"code":"A1","type":"AC","label":"AC 2 Tier A1"}
+  ]},
+  {"id":"layout_hampi","trainNumber":"16592","coaches":[
+    {"code":"ENG","type":"ENGINE","label":"Engine"},
+    {"code":"GEN","type":"GENERAL","label":"General Coach - stand behind engine"},
+    {"code":"LDS","type":"LADIES","label":"Ladies Coach - near yellow marker"},
+    {"code":"S1","type":"SLEEPER","label":"Sleeper S1"},
+    {"code":"S2","type":"SLEEPER","label":"Sleeper S2"},
+    {"code":"S3","type":"SLEEPER","label":"Sleeper S3"},
+    {"code":"B1","type":"AC","label":"AC Coach B1"},
+    {"code":"A1","type":"AC","label":"AC Coach A1"}
+  ]}
+]

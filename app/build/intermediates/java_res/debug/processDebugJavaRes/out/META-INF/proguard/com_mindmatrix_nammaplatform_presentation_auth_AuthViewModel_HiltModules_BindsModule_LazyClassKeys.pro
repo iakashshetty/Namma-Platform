@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class com.mindmatrix.nammaplatform.presentation.auth.AuthViewModel
